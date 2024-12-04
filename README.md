@@ -24,3 +24,7 @@ The private nature of our blockchain network provides an optimal balance of tran
 
 PERFORMANCE
 Our prototype demonstrates robust, efficient, and scalable performance. It can handle multiple simultaneous votes, updating the blockchain in real-time while maintaining the overall system's integrity and security. Furthermore, the blockchain synchronization mechanism ensures that all peers have the most recent and accurate version of the blockchain, crucial for the reliability and credibility of voting results.
+
+
+![Screenshot 2024-12-04 211022](https://github.com/user-attachments/assets/5da7b18d-53c2-40f5-bef0-bfcd9fc5b503)
+![Screenshot 2024-12-04 211037](https://github.com/user-attachments/assets/8768f15b-2b94-4ee3-b55c-0a4fb8633622)
